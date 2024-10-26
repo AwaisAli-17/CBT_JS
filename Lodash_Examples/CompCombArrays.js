@@ -11,3 +11,12 @@ let arr3 = [2,5,6];
 
 let result = _.intersection(arr1,arr2,arr3);
 console.log(result);
+
+//Difference
+result = _.difference(arr1,arr2)
+console.log(result);
+
+result = _.difference(arr2,arr1)
+console.log(result);
+
+//XoR
