@@ -1,0 +1,6 @@
+npm init -y
+// create a json value that tracks the version of modules and libraries, so we don't upload the library files to GitHub. This command in terminal will generate package.json which  contains the information regarding library.
+
+--------------------------
+-Lodash
+npm install lodash
