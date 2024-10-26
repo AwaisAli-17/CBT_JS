@@ -1,0 +1,17 @@
+- Used for Frontend and Backend: Interact DB, Managing File Systems, Creating Webservers.
+- Used for Mobile App Development.
+- Used for Desktop Apps too.
+- Not good for performance oriented applications (C++ allows that)
+- Vanilla JS: Purest JS without any library.
+
+- Front end: React, Angular, VUE, Svelte.
+- Back end: Node, Express (easy to write web servers).
+- Mobile: React Native, Ionic, Native Script.
+- Desktop: Electron
+
+- node -v
+- npm -v
+- node main
+
+----------------------------------------
+

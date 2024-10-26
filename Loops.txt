@@ -1,0 +1,38 @@
+const myArray = ['APPLE','BANANA','MANGO','GRAPES]
+
+- for loop
+for(let i=0; i<4; i++){
+  console.log(myArray[i]);	
+}
+
+- for-of
+for(message of myArray){
+  console.log(message);
+}
+
+- for-in
+const myObj = {name: 'Ali', hair: 'Brown', beard: true}
+for(let property in myObj){
+  console.log(property)
+} //name, hair, beard
+
+
+for(let property in myObj){
+  console.log(myObj[property])
+}// Ali, Brown, true
+
+- for each
+myArray.forEach(x => console.log(x))
+
+- while loop
+let x = 0;
+while(x < 5){
+ console.log('In Loop'
+ x++;
+}
+
+- do while
+do{
+ console.log('In Loop'
+ x++;
+}while(x<5)
