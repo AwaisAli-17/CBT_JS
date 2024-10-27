@@ -4,3 +4,7 @@ npm init -y
 --------------------------
 -Lodash
 npm install lodash
+
+- To import library in file: import _ from 'lodash' but for this we have to add "type":"module" into package.json.
+- Provide similar array methods: _.map, _.filter, _,reduce. 
+- Every built in method can be called from lodash by _method(args)
