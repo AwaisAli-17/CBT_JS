@@ -126,3 +126,9 @@ console.log(arrayOfArrays);
 
 arrayOfArrays.sort((a,b) => a[0]-b[0]);
 console.log(arrayOfArrays);
+
+/**
+ * Sort by lodash.
+ */
+
+
