@@ -21,8 +21,10 @@ console.log(string.slice(2,5))
 
 //toArray
 console.log(string.split('').map(x => x.toUpperCase()).join(''))
+console.log(string.split('').map(x => x.toUpperCase()).join())
 
-//Apply colors to strings
+
+//Apply colors to strings fa
 //install chalk; npm install chalk 
 //chalk.red('Hello') + chalk.blue('Hi'); print Hello in red color and Hi in blue
 //for background
